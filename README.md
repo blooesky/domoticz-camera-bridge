@@ -44,9 +44,6 @@ that lacks it. Docker users: install and run inside the Domoticz container envir
 
 ### Clone with Git
 
-Replace `YOUR_GITHUB_USERNAME` with the owner of this repository. Run as the owner
-of the Domoticz installation, not as root. Adjust the path and service name for
-your installation. Git must already be installed for this method.
 
 ```bash
 cd ~/domoticz/plugins
