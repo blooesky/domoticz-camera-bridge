@@ -1,5 +1,8 @@
 # Camera Bridge for Domoticz
 
+This plugin enables the integration into Domoticz of cameras that do not offer native JPEG support. 
+Domoticz plugin that converts RTSP camera streams into on-demand JPEG snapshots using local FFmpeg.
+
 On-demand JPEG snapshots from RTSP cameras. One hardware entry per camera.
 View RTSP cameras in the standard Domoticz **Cameras** interface, even when the
 camera has no usable HTTP snapshot endpoint. All plugin fields and device names
